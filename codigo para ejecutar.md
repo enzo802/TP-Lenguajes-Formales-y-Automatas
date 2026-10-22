@@ -1,0 +1,1 @@
+g++ -std=c++17 -Wall -Wextra parser_minihtml.cpp -o parser_minihtml
